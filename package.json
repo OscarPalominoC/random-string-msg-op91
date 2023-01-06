@@ -1,0 +1,25 @@
+{
+  "name": "random-string-msg-op91",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "bin": {
+    "random-string-msg-op91": "bin/global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarPalominoC/random-string-msg-op91.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Oscar Palomino <ing.oscarp1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OscarPalominoC/random-string-msg-op91/issues"
+  },
+  "homepage": "https://github.com/OscarPalominoC/random-string-msg-op91#readme"
+}
